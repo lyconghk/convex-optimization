@@ -7,5 +7,5 @@ Stephen Boyd: Convex Optimization
 点个star收藏，后面会抽空持续更新。
 两种使用方法：
 
-直接下载上面的pdf文件阅读，不能编辑或者擦掉我的笔记；
+直接下载上面的pdf文件阅读，不能编辑或者擦掉里面的笔记；
 如果有IPAD，可以下载上面的goodnotes file，然后再导入到自己的goodnotes app里面，这样可以编辑里面的笔记，再接着在文件里面写自己的笔记。
